@@ -1,6 +1,6 @@
 variables:
   majorVersion: '1'
-  minorVersion: '0'
+  minorVersion: '4'
   buildConfiguration: 'Release'
   projectName: 'ThomasMathers.Infrastructure.IAM.Emails'
   testProjectName: 'ThomasMathers.Infrastructure.IAM.Emails.Tests'
