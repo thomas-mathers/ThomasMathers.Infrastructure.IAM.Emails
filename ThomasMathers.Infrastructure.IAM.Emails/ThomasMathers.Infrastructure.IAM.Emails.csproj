@@ -20,8 +20,8 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
     <PackageReference Include="ThomasMathers.Infrastructure.Email" Version="1.1.13" />
-    <PackageReference Include="ThomasMathers.Infrastructure.IAM" Version="1.3.17" />
-    <PackageReference Include="ThomasMathers.Infrastructure.IAM.Data" Version="1.0.2" />
+    <PackageReference Include="ThomasMathers.Infrastructure.IAM" Version="1.3.18" />
+    <PackageReference Include="ThomasMathers.Infrastructure.IAM.Data" Version="1.0.3" />
   </ItemGroup>
 
 </Project>
